@@ -138,7 +138,7 @@ _These platforms should work but are not actively maintained or used by the deve
 <details>
   <summary>OSX</summary>
   
-## To Install
+## To Install.
   
 * Get dependencies from brew:
 
@@ -185,7 +185,8 @@ cmake .. -DLuaJIT_INCLUDE_DIR=<SERVER_ROOT>/server/ext/lua/include
 
 <details>
   <summary>Linux (through WSL)</summary>
-[Working with WSL](https://github.com/LandSandBoat/server/wiki/Working-with-WSL)
+  
+[Working with WSL](Working-with-WSL)
 </details>
 
 <details>
